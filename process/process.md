@@ -1,7 +1,5 @@
 
 <!-- type=global -->
+进程是一个能为当前node.js程序提供信息并支配的全局对象。作为全局对象，进程在node.js应用程序中的使用不需要使用`require()`。
 
-The `process` object is a `global` that provides information about, and control
-over, the current Node.js process. As a global, it is always available to
-Node.js applications without using `require()`.
 
